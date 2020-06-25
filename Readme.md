@@ -80,7 +80,7 @@ Note:
 
     And then, follow the instruction in command-line.
 
-    <img src="/home/karl/.config/Typora/typora-user-images/image-20200624162956650.png" alt="image-20200624162956650" style="zoom:67%;" />
+    <img src="doc/assets/image-20200624162956650.png" alt="image-20200624162956650" style="zoom:67%;" />
 
     Remember to **press [Enter]** to save the result and history, in `testcases/`.
 
