@@ -244,7 +244,7 @@ $$
 
 **操作 - 3-opt**
 
-![image-20200623102501654](assets/image-20200623102501654.png)
+![image-20200623102501654](/home/karl/Coding/AI-algorithms/GASA/doc/assets/image-20200623102501654.png)
 
 3-opt操作能产生以上7种新情况，从中选择效果最好的一种。
 
@@ -713,7 +713,7 @@ g++-7 -fsanitize=address -o ../bin/local_search localsearch_main.o TSPbase.o Loc
 $ ./local_search a280
    ```
 
-   <img src="assets/image-20200623184007620.png" alt="image-20200623184007620" style="zoom: 47%;" /> <img src="assets/image-20200623184210548.png" alt="image-20200623184210548" style="zoom:67%;" />
+   <img src="/home/karl/.config/Typora/typora-user-images/image-20200623184007620.png" alt="image-20200623184007620" style="zoom: 47%;" /> <img src="/home/karl/.config/Typora/typora-user-images/image-20200623184210548.png" alt="image-20200623184210548" style="zoom:67%;" />
 
    在程序运行后，接受参数或回车使用参数缺省值，再次回车确认将开始搜索。
 
@@ -724,7 +724,7 @@ $ ./simulated_annealing a280
    $ ./genetic_algorithm a280
    ```
    
-   <img src="assets/image-20200623184547427.png" alt="image-20200623184547427" style="zoom:50%;" /> <img src="assets/image-20200624122126374.png" alt="image-20200624122126374" style="zoom:50%;" />
+   <img src="/home/karl/.config/Typora/typora-user-images/image-20200623184547427.png" alt="image-20200623184547427" style="zoom:50%;" /> <img src="/home/karl/.config/Typora/typora-user-images/image-20200624122126374.png" alt="image-20200624122126374" style="zoom:50%;" />
 
 ##### 3.3.4 结果可视化
 
@@ -740,7 +740,7 @@ $ python Benchmarker.py [Method(ls/sa/ga)] [TSP_FILE_NAME]
 
 Python脚本会创建文件夹：`[TSP_FILE_NAME].[method].benchmarker.out/`，其中包括历史记录图示、路线变化GIF，以及最优解对比图等。
 
-<img src="assets/benchmark.png" alt="image-20200624123157793" style="zoom:67%;" /> <img src="assets/benchmark-hist.png" alt="image-20200624123114063" style="zoom:50%;" />
+<img src="/home/karl/Coding/AI-algorithms/GASA/doc/assets/benchmark.png" alt="image-20200624123157793" style="zoom:67%;" /> <img src="/home/karl/Coding/AI-algorithms/GASA/doc/assets/benchmark-hist.png" alt="image-20200624123114063" style="zoom:50%;" />
 
 ---
 
@@ -792,11 +792,11 @@ Python脚本会创建文件夹：`[TSP_FILE_NAME].[method].benchmarker.out/`，�
 
 ##### 3.3.2 实验数据可视化
 
-<img src="assets/kroC100.png" alt="kroC100" style="zoom:45%;" /> <img src="assets/ch150.png" alt="ch150" style="zoom:45%;" />
+<img src="/home/karl/Coding/AI-algorithms/GASA/doc/assets/kroC100.png" alt="kroC100" style="zoom:45%;" /> <img src="/home/karl/Coding/AI-algorithms/GASA/doc/assets/ch150.png" alt="ch150" style="zoom:45%;" />
 
- <img src="assets/a280.png" style="zoom:45%;" /><img src="assets/tsp225.png" alt="tsp225" style="zoom:45%;" />
+ <img src="/home/karl/Coding/AI-algorithms/GASA/doc/assets/a280.png" style="zoom:45%;" /><img src="/home/karl/Coding/AI-algorithms/GASA/doc/assets/tsp225.png" alt="tsp225" style="zoom:45%;" />
 
-<img src="assets/pcb442.png" alt="pcb442" style="zoom:67%;" />
+<img src="/home/karl/Coding/AI-algorithms/GASA/doc/assets/pcb442.png" alt="pcb442" style="zoom:67%;" />
 
 <div style="page-break-after: always;"></div>
 
