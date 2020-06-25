@@ -1,5 +1,7 @@
 # Readme
 
+To raise your interest in TSP and GA, SA, [Click here](http://webtest.resourcemaster.top/TSP-visualization/) to take a look at what this repo do to solve TSP.
+
 ## 1 Repo structure
 
 This report is structured as follow:
@@ -101,7 +103,7 @@ Note:
 
 ## 3 Visualization
 
-Since the result gifs are too large to sent with Email, I build a web-demo here for your convenience, enjoy it and please be patient with those gifs which may loads from server for a while, thanks.
+Since the result gifs are too large to present here, I build a web-demo here for your convenience, enjoy it and please be patient with those gifs which may loads from server for a while, thanks.
 
 [Click here](http://webtest.resourcemaster.top/TSP-visualization/)
 

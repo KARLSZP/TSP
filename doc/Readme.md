@@ -709,6 +709,8 @@ g++-7 -fsanitize=address -o ../bin/local_search localsearch_main.o TSPbase.o Loc
 
    >   需要进行搜索的问题需要提前将文件`[tsp_name].tsp`以及`[tsp_name].opt.tour`复制到`testcases/`中。
    
+   
+
    ```bash
 $ ./local_search a280
    ```
@@ -716,11 +718,11 @@ $ ./local_search a280
    <img src="assets/image-20200623184007620.png" alt="image-20200623184007620" style="zoom: 47%;" /> <img src="assets/image-20200623184210548.png" alt="image-20200623184210548" style="zoom:67%;" />
 
    在程序运行后，接受参数或回车使用参数缺省值，再次回车确认将开始搜索。
-
-   相关参数已在命令行中说明。
    
+   相关参数已在命令行中说明。
+
    ```bash
-$ ./simulated_annealing a280
+   $ ./simulated_annealing a280
    $ ./genetic_algorithm a280
    ```
    
